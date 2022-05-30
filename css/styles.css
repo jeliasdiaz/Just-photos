@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 /* Navbar */
+body{
+  font-family: 'Open Sans', sans-serif;
+}
 header {
   background-color: #413f42;
 }
@@ -32,7 +35,8 @@ header {
 }
 .navbar {
   background-color: #413f42;
-  font-size: 18px;
+  font-size: 17px;
+  font-weight: 400;
 }
 .flex-1 a {
   display: flex;
