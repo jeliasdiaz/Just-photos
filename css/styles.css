@@ -52,10 +52,6 @@ header {
 }
 
 /* Principal content  */
-.container {
-  padding-top: 5%;
-}
-
 .col-sm-3 {
   overflow: hidden;
   width: 90%;
@@ -70,6 +66,7 @@ header {
 }
 .row {
   width: 80%;
+  padding-top: 5%;
 }
 .row img {
   width: 100%;
@@ -135,9 +132,6 @@ footer {
   .first img {
     margin-top: 15%;
   }
-  .container {
-    width: 120%;
-  }
   .navbar {
     font-size: 17px;
   }
@@ -145,11 +139,14 @@ footer {
     height: 20vh;
   }
   .c1 {
-    width: 30%;
-    padding-top: 10%;
+    width: 35%;
+    padding-top: 13%;
   }
   .c1 p{
       font-size: 14px;
+  }
+  footer{
+    height: 26vh;
   }
   .home-2{
     padding-top: 40%;
